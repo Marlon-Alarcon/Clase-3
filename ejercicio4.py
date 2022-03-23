@@ -1,4 +1,5 @@
 import os #limpia pantalla
+#hola
 class Persona():
     def __init__(self): #Es una funcion que se inicializa cuando se estancia la clase
         self.__perso = {} #Es un objeto
